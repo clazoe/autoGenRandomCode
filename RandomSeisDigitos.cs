@@ -34,7 +34,5 @@ namespace autoGenRandomCode
             return (int)(min + (max - min) *
                 (rango / (double)uint.MaxValue));
         }
-
-
     }
 }
